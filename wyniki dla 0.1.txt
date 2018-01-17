@@ -1,0 +1,447 @@
+Nr1
+PO UCZENIU
+Flower[0] winner = 188
+Flower[1] winner = 153
+Flower[2] winner = 24
+
+PO TESTOWANIU
+Flower[0][0] test winner = 188
+Flower[0][1] test winner = 188
+Flower[0][2] test winner = 188
+Flower[0][3] test winner = 188
+Flower[0][4] test winner = 188
+
+Flower[1][0] test winner = 153
+Flower[1][1] test winner = 153
+Flower[1][2] test winner = 153
+Flower[1][3] test winner = 153
+Flower[1][4] test winner = 153
+
+Flower[2][0] test winner = 24
+Flower[2][1] test winner = 24
+Flower[2][2] test winner = 24
+Flower[2][3] test winner = 24
+Flower[2][4] test winner = 24
+
+
+Iloœæ epok = 1
+
+
+
+Nr2
+PO UCZENIU
+Flower[0] winner = 7
+Flower[1] winner = 178
+Flower[2] winner = 113
+
+PO TESTOWANIU
+Flower[0][0] test winner = 7
+Flower[0][1] test winner = 7
+Flower[0][2] test winner = 7
+Flower[0][3] test winner = 7
+Flower[0][4] test winner = 7
+
+Flower[1][0] test winner = 178
+Flower[1][1] test winner = 178
+Flower[1][2] test winner = 178
+Flower[1][3] test winner = 178
+Flower[1][4] test winner = 178
+
+Flower[2][0] test winner = 113
+Flower[2][1] test winner = 113
+Flower[2][2] test winner = 113
+Flower[2][3] test winner = 113
+Flower[2][4] test winner = 113
+
+
+Iloœæ epok = 6
+
+
+
+Nr3
+PO UCZENIU
+Flower[0] winner = 115
+Flower[1] winner = 89
+Flower[2] winner = 16
+
+PO TESTOWANIU
+Flower[0][0] test winner = 115
+Flower[0][1] test winner = 115
+Flower[0][2] test winner = 115
+Flower[0][3] test winner = 115
+Flower[0][4] test winner = 115
+
+Flower[1][0] test winner = 89
+Flower[1][1] test winner = 89
+Flower[1][2] test winner = 89
+Flower[1][3] test winner = 89
+Flower[1][4] test winner = 89
+
+Flower[2][0] test winner = 16
+Flower[2][1] test winner = 16
+Flower[2][2] test winner = 16
+Flower[2][3] test winner = 16
+Flower[2][4] test winner = 16
+
+
+Iloœæ epok = 1
+
+
+
+Nr4
+PO UCZENIU
+Flower[0] winner = 181
+Flower[1] winner = 91
+Flower[2] winner = 198
+
+PO TESTOWANIU
+Flower[0][0] test winner = 181
+Flower[0][1] test winner = 181
+Flower[0][2] test winner = 181
+Flower[0][3] test winner = 181
+Flower[0][4] test winner = 181
+
+Flower[1][0] test winner = 91
+Flower[1][1] test winner = 91
+Flower[1][2] test winner = 91
+Flower[1][3] test winner = 91
+Flower[1][4] test winner = 91
+
+Flower[2][0] test winner = 198
+Flower[2][1] test winner = 198
+Flower[2][2] test winner = 198
+Flower[2][3] test winner = 198
+Flower[2][4] test winner = 198
+
+
+Iloœæ epok = 1
+
+
+
+Nr5
+PO UCZENIU
+Flower[0] winner = 87
+Flower[1] winner = 186
+Flower[2] winner = 94
+
+PO TESTOWANIU
+Flower[0][0] test winner = 87
+Flower[0][1] test winner = 87
+Flower[0][2] test winner = 87
+Flower[0][3] test winner = 87
+Flower[0][4] test winner = 87
+
+Flower[1][0] test winner = 186
+Flower[1][1] test winner = 186
+Flower[1][2] test winner = 186
+Flower[1][3] test winner = 186
+Flower[1][4] test winner = 186
+
+Flower[2][0] test winner = 94
+Flower[2][1] test winner = 94
+Flower[2][2] test winner = 94
+Flower[2][3] test winner = 94
+Flower[2][4] test winner = 94
+
+
+Iloœæ epok = 1
+
+
+
+Nr6
+PO UCZENIU
+Flower[0] winner = 172
+Flower[1] winner = 168
+Flower[2] winner = 44
+
+PO TESTOWANIU
+Flower[0][0] test winner = 172
+Flower[0][1] test winner = 172
+Flower[0][2] test winner = 172
+Flower[0][3] test winner = 172
+Flower[0][4] test winner = 172
+
+Flower[1][0] test winner = 168
+Flower[1][1] test winner = 168
+Flower[1][2] test winner = 168
+Flower[1][3] test winner = 168
+Flower[1][4] test winner = 168
+
+Flower[2][0] test winner = 44
+Flower[2][1] test winner = 44
+Flower[2][2] test winner = 44
+Flower[2][3] test winner = 44
+Flower[2][4] test winner = 44
+
+
+Iloœæ epok = 5
+
+
+
+Nr7
+PO UCZENIU
+Flower[0] winner = 73
+Flower[1] winner = 112
+Flower[2] winner = 134
+
+PO TESTOWANIU
+Flower[0][0] test winner = 73
+Flower[0][1] test winner = 73
+Flower[0][2] test winner = 73
+Flower[0][3] test winner = 73
+Flower[0][4] test winner = 73
+
+Flower[1][0] test winner = 112
+Flower[1][1] test winner = 112
+Flower[1][2] test winner = 112
+Flower[1][3] test winner = 112
+Flower[1][4] test winner = 112
+
+Flower[2][0] test winner = 134
+Flower[2][1] test winner = 134
+Flower[2][2] test winner = 134
+Flower[2][3] test winner = 134
+Flower[2][4] test winner = 134
+
+
+Iloœæ epok = 5
+
+
+
+Nr8
+PO UCZENIU
+Flower[0] winner = 96
+Flower[1] winner = 81
+Flower[2] winner = 176
+
+PO TESTOWANIU
+Flower[0][0] test winner = 96
+Flower[0][1] test winner = 96
+Flower[0][2] test winner = 96
+Flower[0][3] test winner = 96
+Flower[0][4] test winner = 96
+
+Flower[1][0] test winner = 81
+Flower[1][1] test winner = 81
+Flower[1][2] test winner = 81
+Flower[1][3] test winner = 81
+Flower[1][4] test winner = 81
+
+Flower[2][0] test winner = 176
+Flower[2][1] test winner = 176
+Flower[2][2] test winner = 176
+Flower[2][3] test winner = 176
+Flower[2][4] test winner = 176
+
+
+Iloœæ epok = 1
+
+
+
+Nr9
+PO UCZENIU
+Flower[0] winner = 7
+Flower[1] winner = 35
+Flower[2] winner = 85
+
+PO TESTOWANIU
+Flower[0][0] test winner = 7
+Flower[0][1] test winner = 7
+Flower[0][2] test winner = 7
+Flower[0][3] test winner = 7
+Flower[0][4] test winner = 7
+
+Flower[1][0] test winner = 35
+Flower[1][1] test winner = 35
+Flower[1][2] test winner = 35
+Flower[1][3] test winner = 35
+Flower[1][4] test winner = 35
+
+Flower[2][0] test winner = 85
+Flower[2][1] test winner = 85
+Flower[2][2] test winner = 85
+Flower[2][3] test winner = 85
+Flower[2][4] test winner = 85
+
+
+Iloœæ epok = 2
+
+
+
+Nr10
+PO UCZENIU
+Flower[0] winner = 136
+Flower[1] winner = 115
+Flower[2] winner = 191
+
+PO TESTOWANIU
+Flower[0][0] test winner = 136
+Flower[0][1] test winner = 136
+Flower[0][2] test winner = 136
+Flower[0][3] test winner = 136
+Flower[0][4] test winner = 136
+
+Flower[1][0] test winner = 115
+Flower[1][1] test winner = 115
+Flower[1][2] test winner = 115
+Flower[1][3] test winner = 115
+Flower[1][4] test winner = 115
+
+Flower[2][0] test winner = 191
+Flower[2][1] test winner = 191
+Flower[2][2] test winner = 191
+Flower[2][3] test winner = 191
+Flower[2][4] test winner = 191
+
+
+Iloœæ epok = 1
+
+
+
+Nr11
+PO UCZENIU
+Flower[0] winner = 35
+Flower[1] winner = 104
+Flower[2] winner = 81
+
+PO TESTOWANIU
+Flower[0][0] test winner = 35
+Flower[0][1] test winner = 35
+Flower[0][2] test winner = 35
+Flower[0][3] test winner = 35
+Flower[0][4] test winner = 35
+
+Flower[1][0] test winner = 104
+Flower[1][1] test winner = 104
+Flower[1][2] test winner = 104
+Flower[1][3] test winner = 104
+Flower[1][4] test winner = 104
+
+Flower[2][0] test winner = 81
+Flower[2][1] test winner = 81
+Flower[2][2] test winner = 81
+Flower[2][3] test winner = 81
+Flower[2][4] test winner = 81
+
+
+Iloœæ epok = 1
+
+
+
+Nr12
+PO UCZENIU
+Flower[0] winner = 190
+Flower[1] winner = 74
+Flower[2] winner = 48
+
+PO TESTOWANIU
+Flower[0][0] test winner = 190
+Flower[0][1] test winner = 190
+Flower[0][2] test winner = 190
+Flower[0][3] test winner = 190
+Flower[0][4] test winner = 190
+
+Flower[1][0] test winner = 74
+Flower[1][1] test winner = 74
+Flower[1][2] test winner = 74
+Flower[1][3] test winner = 74
+Flower[1][4] test winner = 74
+
+Flower[2][0] test winner = 48
+Flower[2][1] test winner = 48
+Flower[2][2] test winner = 48
+Flower[2][3] test winner = 48
+Flower[2][4] test winner = 48
+
+
+Iloœæ epok = 1
+
+
+
+Nr13
+PO UCZENIU
+Flower[0] winner = 118
+Flower[1] winner = 129
+Flower[2] winner = 150
+
+PO TESTOWANIU
+Flower[0][0] test winner = 118
+Flower[0][1] test winner = 118
+Flower[0][2] test winner = 118
+Flower[0][3] test winner = 118
+Flower[0][4] test winner = 118
+
+Flower[1][0] test winner = 129
+Flower[1][1] test winner = 129
+Flower[1][2] test winner = 129
+Flower[1][3] test winner = 129
+Flower[1][4] test winner = 129
+
+Flower[2][0] test winner = 150
+Flower[2][1] test winner = 150
+Flower[2][2] test winner = 150
+Flower[2][3] test winner = 150
+Flower[2][4] test winner = 150
+
+
+Iloœæ epok = 12
+
+
+
+Nr14
+PO UCZENIU
+Flower[0] winner = 19
+Flower[1] winner = 54
+Flower[2] winner = 22
+
+PO TESTOWANIU
+Flower[0][0] test winner = 19
+Flower[0][1] test winner = 19
+Flower[0][2] test winner = 19
+Flower[0][3] test winner = 19
+Flower[0][4] test winner = 19
+
+Flower[1][0] test winner = 54
+Flower[1][1] test winner = 54
+Flower[1][2] test winner = 54
+Flower[1][3] test winner = 54
+Flower[1][4] test winner = 54
+
+Flower[2][0] test winner = 22
+Flower[2][1] test winner = 22
+Flower[2][2] test winner = 22
+Flower[2][3] test winner = 22
+Flower[2][4] test winner = 22
+
+
+Iloœæ epok = 2
+
+
+
+Nr15
+PO UCZENIU
+Flower[0] winner = 25
+Flower[1] winner = 73
+Flower[2] winner = 109
+
+PO TESTOWANIU
+Flower[0][0] test winner = 25
+Flower[0][1] test winner = 25
+Flower[0][2] test winner = 102
+Flower[0][3] test winner = 25
+Flower[0][4] test winner = 25
+
+Flower[1][0] test winner = 73
+Flower[1][1] test winner = 73
+Flower[1][2] test winner = 73
+Flower[1][3] test winner = 73
+Flower[1][4] test winner = 73
+
+Flower[2][0] test winner = 109
+Flower[2][1] test winner = 109
+Flower[2][2] test winner = 109
+Flower[2][3] test winner = 109
+Flower[2][4] test winner = 109
+
+
+Iloœæ epok = 1
